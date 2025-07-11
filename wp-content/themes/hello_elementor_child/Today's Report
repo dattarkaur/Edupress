@@ -1,0 +1,245 @@
+Today's Report
+
+I have create testimonials and design them according the responsiveness with creating the shortcode .
+Add design, and did some modifications in frontpage.
+Make responsive whole frontpage in tablet and mobile view.
+
+Thank You
+
+Today's Report
+
+Add design, and did some modifications in frontpage.
+In Custom post types,after clicking on particular post single page post added.
+Add slider in testimonials and design them according the responsiveness.
+Make responsive whole frontpage in tablet and mobile view and header and footer also.
+
+Thank You
+
+Today's Report
+
+Design About us Page and Contact Us page.
+In about us page add the information about the site.
+In contact page added a plugin contact form 7 for creating the form.
+Make the both pages responsive in tablet and mobile view.
+
+Thank You
+
+
+Today's Report
+
+Design Facility Page and Admission page.
+In a facility page add the information about the facility and faculty of site.
+In Admission page give the information and the processes for the Admission.
+Make the both pages responsive in tablet and mobile view.
+
+Thank You
+
+
+Today's Report
+
+Design 'Terms & condition' Page and 'Academics page'.
+In a terms and condition page add the information about the terms and the conditions related to site and make page dynamic.
+Provide detailed information about the site's academic section, and integrate a form using a suitable WordPress plugin for user interaction..
+Make the both pages responsive in tablet and mobile view.
+
+Thank You
+
+Today's Report
+
+    Design a services single page.In which all the content and descriptions are shown of that particular post.Add design and functionality in that page.
+    Made the page responsive for tablet and mobile views.
+    After that did some modifications in the each page of the site.
+
+Thank You
+
+    Today's Report
+
+    Design a dedicated  single page for about us and faculty page.In which Display complete content and descriptions of the selected post.
+    Use Contact form 7 plugin for creating the form.And make ACF fields also to fetch the data dynamically.
+    Make the page fully responsive.
+    Did some modifications in entire site according to figma.
+
+    Thank You
+
+  Today's Report
+
+   
+    Did some modifications in entire site according to figma.
+    Modify header and footer also.
+
+    Thank You
+
+
+  Today's Report
+
+       Did some modifications in entire site Such as add Login, logout functionality in the navbar according if the user login or logout.
+       Create login and sign in form in site, add validations in them.
+       Link the entire site buttons to their related pages and on their working.
+
+    Thank You
+
+  Today's Report
+
+    Add login,logout functionality in header according user status.
+    Create a Blog page in which fetch the custom post type.And in them add functionality of Pagination.
+
+      Thank You
+
+  Today's Report
+
+  In Blog page add search bar functionality and fetch the active posts with creating ACF field.
+  In this functionality only avtive posts will be shown.
+  After also add the search functionality regarding the post title.After searching the title of the posts,post will be filter accordingly.
+
+Thank You
+
+
+
+Today's Report
+
+In search bar add more functionality about the searching in which we can search the title and the description about the post.
+Done this with SQL wp_query and also did with the meta query.
+
+Thank You
+
+
+Today's Report
+
+In blog page did some changes regarding the search functionality in which searched the title and the desciption about the post with the sql query.
+Send success messages, and error messages in the json format with ajax jquery.
+
+Thank You
+
+Today's Report
+
+I have create shortcode of custom post type and use that shortcode to fetch posts in website.
+Fetch the data dynamically from the custom post type.
+
+Thank You
+
+Today's Report
+
+Created single page for posts in custom post type blog.
+In which create acf fields and taxonomies and fetch data dynamically from the acf fields and taxonomies.
+Add Search bar functionality in single page.  
+
+Thank You
+
+
+Today's Report
+
+In join us page add a form using contact form 7 plugin,add shortcode and make form dynamic.
+Set the mail structure and information.
+
+
+Thank You
+
+Today's Report
+
+Add a google review plugin in which fetch the actual site reviews from the google.
+After that customize and design that reviews according the design.
+
+Thank You
+
+
+Today's Report
+
+In single blog page applied dynamic functionality, in which when clicked on specific taxonomy's category, the another page will be redirects in which all the posts will be shown related clicked category.
+Add validation in csv file fields.
+
+Thank You
+
+
+Today's Report
+
+In  blog page add one section in which fetch the title and sub title of the post.
+Fetch the name of the taxonomy categories in single blog page.
+Create a attribute in shortcode in which posts are shows according the limit also update the style of the posts according shortcode limit also.
+After that create a image acf field, for the hover effect.In which by default, image will be display but when hover image will be change accordingly. 
+
+Thank You
+
+
+Today's Report
+
+Did the functionality of pagination in blog posts page.
+In csv apply validations for the fields,create a select option for selecting the post type in the form,in which want to insert the data.
+Create a acf field for subtitle in which subtitle of the post will be shown which we pass from the excel sheet in selected post type.
+
+Thank You
+
+Today's Report
+
+Create a custom plugin in which fetch all the users data.
+Apply record delete functionality on every user record.
+After that create add user for registration,add validations.
+
+Thank You
+
+
+Today's Report
+   
+After creating custom plugin for crud operation,apply style to set the structure of table and form.
+Creating ACF field for post type add url field in which added url, and did research about how to get the id from that url of the posts and pages,also fetches the url in frontend which passed in post type.
+
+Thank You
+
+
+Today's Report
+   
+In the custom plugin, add dropdown menu for the role.In this menu fetched all the roles are available and also add functionality for custom role in which can create the custom role.
+Add a edit button for edit or rename the name of the role permanently.
+Did research about how to get the id of the acf url field's url of the posts and pages ,also fetches the url's and id's of that acf field's url in frontend which passed in post type.
+
+Thank You
+
+
+Today's Report
+
+Did research about how to get the id of the acf url field's url of the posts and pages ,also fetches the url's and id's of that acf field's url in frontend which passed in post type.
+In custom plugin role menu did the functionality in which can rename of the role,delete the role also.While rename the role, pre-filled the existing role in field.
+
+Thank You
+
+Today's Report
+
+In custom crud operation plugin add the validations in add user button, edit button,and while creating role.
+In edit button pre filled the input fields with existing values.
+In role menu add the capabilities about the role, with this, access will be provided according the capability to the roles,also fetch the capabilities in the user edit role.
+While editing role, existing capabilities fetched in the checkboxes.
+Add the pagination in the list of all users.
+
+Thank You
+
+
+Today's Report
+
+In custom crud operation plugin set the validations in the form and did some modifications in entire custom plugin.
+Apply limit on the role's description,when showing in frontend.
+After that add search bar functionality in which data filters according the searched keyword such as username or the email.
+
+Thank You
+
+Today's Report
+
+Worked on the Pocket project, in which update and remove the content according the client requirements.
+Add and design the another sections in site and modify the styling also.
+
+Thank You
+
+Today's Report
+
+Add the dropdown menu of the user roles, in which we can select the role and according that speific role user data will be filter.
+Also add bulk action functionality for delete the particular user data row after check and apply delete bulk action.And change the structure of the plugin.
+
+Thank You
+
+
+Today's Report
+
+Create a bulk action hook in custom post type to update the acf field status in the posts.
+Add that status column in the post-type table list with manage hook.
+Did research about the Git.
+
+Thank You
+
