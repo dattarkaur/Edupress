@@ -1160,4 +1160,3 @@ function custom_reorder_blog_columns($columns) {
     }
     return $new_columns;
 }
-echo "dfghdf";
