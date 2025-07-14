@@ -1121,6 +1121,7 @@ function custom_bulk_update_admin_notice() {
 add_action( 'admin_notices', 'custom_bulk_update_admin_notice');
 
 
+//show status column list of all posts
 
 add_filter('manage_blog_posts_columns', 'add_acf_status_column');
 function add_acf_status_column($columns) {
