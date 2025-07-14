@@ -27,7 +27,7 @@ define( 'DB_USER', 'dattar' );
 
 /** Database password */
 define( 'DB_PASSWORD', '123456' );
-
+ 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
 
