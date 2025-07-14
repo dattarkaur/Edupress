@@ -23,7 +23,7 @@
 //define( 'DB_NAME', 'Education' );
 
 /** Database username */
-define( 'DB_USER', 'dattar inder' );
+define( 'DB_USER', 'dattar' );
 
 /** Database password */
 define( 'DB_PASSWORD', '123456' );
